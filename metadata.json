@@ -1,0 +1,6 @@
+{
+  "name": "ScribeSync - Smart Physical & Digital Notes",
+  "description": "Automatic stroke digitization and AI categorization app for the ScribeSync smart notepad. Bridges real paper notes with cloud organization, AI quizzes, and exam study tools.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
