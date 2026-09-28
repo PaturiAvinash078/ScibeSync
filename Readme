@@ -1,0 +1,40 @@
+Problem Statement:
+What problem did I solve?
+
+Students think best when they write by hand, but everything else about their academic life happens on a screen. 
+Assignments, revision, sharing and searching all live digitally, so their handwritten notes end up stuck in a format that doesn't fit. 
+Every student feels this in the same small, repeating ways:
+
+Carrying four or five heavy notebooks every day because they don't know which subject they'll need next.
+Losing one notebook and losing weeks of notes with it, with no backup.
+Spending an hour before exams photographing and scanning pages, just to get a searchable copy.
+Having notes from different subjects scattered, with no organization unless the student sorts them by hand.
+Turning those notes into practice questions or revision material by hand, when time is already short.
+
+Current options don't solve this. Scanning apps only capture pages, so the student still has to organize and study from them manually. 
+Fully digital note-taking asks students to give up the handwriting that helps them learn. The problem is not that students lack notes. 
+Their notes are trapped, unorganized and unused, at exactly the moment they need them most.
+
+Solution:
+How does your application solve this problem?
+
+Our web application lets students keep writing by hand and gives their notes a smart digital home. 
+Students upload their handwritten pages as photos or scans, and the application does the rest:
+
+Upload: The student uploads photos or scans of handwritten notes.
+Convert: The application turns them into a clean, readable digital PDF that can be searched and shared.
+Auto-organize: AI reads the content and files each document into the correct subject folder, so the student doesn't sort anything manually.
+Access anywhere: All notes sit in one organized, searchable library, on any device, with no notebook needed for backup or revision.
+Premium study tools: Premium users get quizzes, tasks and practice exams generated from their own stored notes, so revision starts from what they 
+actually wrote instead of a blank page.
+
+Outcome: Students keep the way they learn best, handwriting, and get organized, searchable, backed-up notes plus ready-made study material, 
+with no manual sorting and no lost notebooks.
+
+What Did I Build?
+
+We built ScribeSync, a web application for students who take handwritten notes. Students upload photos or scans of their handwritten pages, 
+and the app turns them into clean, searchable digital documents. AI then reads each document and files it into the right subject folder automatically, 
+so nothing has to be sorted by hand. All notes end up in one organized library that students can open from any device, which means a lost notebook no 
+longer means lost notes. A premium tier generates quizzes, tasks and practice exams from the student's own stored notes.
+
